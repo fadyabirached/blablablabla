@@ -1,6 +1,10 @@
 # blablablabla
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #test
+=======
+# we are testing
+>>>>>>> Stashed changes
 =======
 # we are testing
 >>>>>>> Stashed changes
